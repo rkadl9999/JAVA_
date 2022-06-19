@@ -12,7 +12,7 @@ public class DataInputOuput {
         Scanner sc = new Scanner(System.in); //Scanner 객체 생성 ( sc )
         String name = sc.next(); //name 변수에 값 저장
         int age = sc.nextInt(); //age 변수에 값 저장
-        System.out.println("이름 : "+name+" | d나이 : "+age); //입력 받은 값 출력
+        System.out.println("이름 : "+name+" | 나이 : "+age); //입력 받은 값 출력
 
 
     }
