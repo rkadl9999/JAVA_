@@ -16,7 +16,7 @@ public class ControlFlowStatement {
             System.out.println("성인 입니다.");
         }
 
-        //Switch-Case 문
+        //Switch-Case문
         //변수의 값에 따라 해당 코드 실행
 
         //Example Code
