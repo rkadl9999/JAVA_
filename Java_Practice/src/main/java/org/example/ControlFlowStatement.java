@@ -63,6 +63,6 @@ public class ControlFlowStatement {
             sum += tmp;
         }
         System.out.println("sum : "+sum); //반복문이 끝난 뒤 sum의 값 출력 | 15
-        
+
         }
     }
